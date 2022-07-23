@@ -1,2 +1,2 @@
 # ahk
-AHK Scipts
+AutoHotkey Scipts
