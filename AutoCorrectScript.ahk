@@ -1,9 +1,191 @@
-﻿::frist::first
+::repharse::rephrase
+::cousing::cousin
+::confrimation::confirmation
+::reviwing::reviewing
+::reviw::review
+::collboration::collaboration
+::sensuos::sensuous
+::sensuose::sensuous
+::sensouse::sensuous
+::mintues::minutes
+::mintue::minute
+::versoin::version
+::nsfw::[NSFW]
+::nsfl::[NSFL]
+::imporve::improve
+::impove::improve
+::imporved::improved
+::impoved::improved
+::undersatnd::understand
+::undersatnds::understands
+::plaigarism::plagiarism
+::imgure::imgur
+::toii::transfer of information
+::informatoin::information
+::tuking::tukin
+::ultahost::UltaHost
+::nodejs::NodeJS
+::wifi::Wi-Fi
+::lan::LAN
+::aaa::Platform independent
+::aa::All systems
+::nhdd::nohiddendepths
+::silvyag::morris.silvya@gmail.com
+::nhdg::nohiddendepths@gmail.com
+::mmmx::jimmy.mmmx@gmail.com
+::jsaig::jimmy.sailo@gmail.com
+::gme::gme_in@yahoo.com
+::pna::PNVAL-126429
+::paramaters::::parameters
+::dorp::drop
+::ditaa::DITA
+::ditamapp::DITA map
+::checkedout::checked-out
+::checkedin::checked-in
+::checkout::check-out
+::answere::answer
+::picc::[PIC]
+::upto::up to
+::smes::SMEs
+::wight::weight
+::wieght::weight
+::distrub::disturb
+::ty::thank you
+::trun::ṭûn
+::ssh::SSH
+::trawngtrai::ṭawngṭai
+::promitoin::promotion
+::queires::queries
+::abuot::about
+::resovled::resolved
+::ont::not
+::openend::opened
+::reopenend::reopened
+::naem::name
+::info'n::information
+::incognitor::incognito
+::youre::you're
+::meida::media
+::threnkhat::ṭhenkhat
+::thre::ṭhe
+::threh::ṭheh
+::doen::done
+::pdfd::[PDF download]
+::vidd::[VIDEO] 📽️
+::kacard::4616800003129294
+::thara::tawrhthiamhara
+::trawngkam::ṭawngkam
+::thralai::ṭhalai
+::ppl::people
+::detial::detail
+::detials::details
+::B-)::😎
+::sth::something
+::ttpa::ThemthaiaPa
+::lengpui::Lengpui
+::Lenpui::Lengpui
+::veiwing::viewing
+::veiw::view
+::bering::berin
+::trah::ṭah
+::zawngtrah::zawngṭah
+::antram::anṭam
+::snmp::SNMP
+::kaupi::jimmy.micromax-1@okaxis
+::betw'n::between
+::automatice::automatic
+::fwd::FWD
+::usb::USB
+::indiates::indicates
+::ipv4::IPv4
+::ipv6::IPv6
+::lable::label
+::lables::labels
+::thougth::thought
+::veiw::view
+::Conf::Confluence
+::dmap::ditamap
+::wowo::WoWonder
+::perfromance::performance
+::perfroms::performs
+::intance::instance
+::pncnm::PNCNM
+::config'n::configuration
+::worng::wrong
+::vlan::VLAN
+::flexe::FlexE
+::l2::L2
+::olts::OLTs
+::onus::ONUs
+::olt::OLT
+::onu::ONU
+::Nat::Nathalie
+::sme::SME
+::craete::create
+::documentaiton::documentation
+::displayes::displays
+::ggn::Gurgaon
+::aem::AEM
+::clcik::click
+::vieweing::viewing
+::webui::Web UI
+::THanks::thanks
+::onedrive::OneDrive
+::cateogry::category
+::feidls::fields
+::feidl::field
+::rpc::RPC
+::tomm::tomorrow
+::documention::documentation
+::bunhc::bunch
+::automatin::automation
+::diplayed::displayed
+::trangkai::ṭangkai
+::paramaters::parameters
+::paramater::parameter
+::and off::an off
+::dhcp::DHCP
+::checkin::check-in
+::empid::26586
+::filder::folder
+::rectange::rectangle
+::tehre::there
+::pfour::P4
+::plsseeatt::please see attached file
+::ehre::here
+::desing::design
+::genrated::generated
+::paramaters::parameters
+::sometiems::sometimes
+::html::HTML
+::config'n::configuration
+::retreiving::retrieving
+::additoin::addition
+::shwon::shown
+::shwo::show
+::similaryly::similarly
+::showin::shown in
+::tls::TLS
+::sahre::share
+::thx::thanks
+::lnch::lunch
+::isis::IS-IS
+::threuh::ṭheuh
+::treuh::ṭeuh
+::attachement::attachment
+::inventroy::inventory
+::Gude::Guide
+::gude::guide
+::Dmon::Devanshi
+::myemail::jimmy.sailo@gmail.com
+::myemailmo::morris.silvya@gmail.com
+::impsmecom::Implement SME review comments.
+::peepso::Peepso
+::frist::first
 ::lauch::launch
 ::gbe::GbE
 ::vanging::vangin
 ::walthru::walk through
-::irfs::Image received from Sudhakar.
 ::msg::message
 ::fruu::FRU
 ::frufull:: Field Replaceable Unit
@@ -27,7 +209,7 @@
 ::btw::BTW
 ::assinged::assigned
 ::doc'n::documentation
-::FM::FrameMaker
+::fmm::FrameMaker
 ::yang::YANG
 ::jira::JIRA
 ::nifd::Need inputs from design
@@ -37,7 +219,7 @@
 ::h/w::hardware
 ::h/w::hardware
 ::amz::amazon
-::cnm::CNM
+::cnmm::CNM
 ::agile::Agile
 ::plm::PLM
 ::attachement::attachment
@@ -67,10 +249,9 @@
 ::configuraiton::configuration
 ::configr::configure
 ::confign::configuration
-::PJ::Piyush
-::TJ::Tejeshwar
-::DDM::Devanshi
-::AG::Abhinav
+::Pj::Piyush
+::Tj::Tejeshwar
+::Dmo::Devanshi
 ::confign::configuration
 ::tfc::the following command
 ::tffig::the following figure
@@ -80,7 +261,6 @@
 ::msgdsp::message is displayed
 #n:: run notepad++
 return
-
 ::INRR::₹
 
 
@@ -146,12 +326,12 @@ return
 #SingleInstance force
 
 ;------------------------------------------------------------------------------
-; AUto-COrrect TWo COnsecutive CApitals.
+; AUto-COrrect TWo COnsecutive CApitals. 2 consecutive
 ; Disabled by default to prevent unwanted corrections such as IfEqual->Ifequal.
 ; To enable it, remove the /*..*/ symbols around it.
 ; From Laszlo's script at http://www.autohotkey.com/forum/topic9689.html
 ;------------------------------------------------------------------------------
-/*
+
 ; The first line of code below is the set of letters, digits, and/or symbols
 ; that are eligible for this type of correction.  Customize if you wish:
 keys = abcdefghijklmnopqrstuvwxyz
@@ -164,7 +344,7 @@ Hoty:
     else if CapCount = 3
         SendInput % "{Left}{BS}+" . SubStr(A_PriorHotKey,3,1) . "{Right}"
 Return
-*/
+
 
 
 ;------------------------------------------------------------------------------
@@ -394,8 +574,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ancien regime::Ancien Régime
 ::angstrom::Ångström
 ::angstroms::Ångströms
-::anime::animé
-::animes::animés
 ::ao dai::ào dái
 ::apertif::apértif
 ::apertifs::apértifs
@@ -5168,7 +5346,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::eigth::eighth, eight
 ::electic::eclectic, electric
 ::electon::election, electron
-::elite::élite
 ::emition::emission, emotion
 ::emminent::eminent, imminent
 ::empirial::empirical, imperial
@@ -5389,18 +5566,19 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;-------------------------------------------------------------------------------
 ; Anything below this point was added to the script by the user via the Win+H hotkey.
 ;-------------------------------------------------------------------------------
-
-
+::zmll::https://business.facebook.com/latest/composer?asset_id=105557060818892&nav_ref=pages_classic_isolated_section_ppt_published_posts_diode&ref=biz_web_content_manager_published_posts&context_ref=POSTS
+::emvid::📽️
 ::shrug::¯\_(ツ)_/¯
-::hrtred::❤️
+::shrugm::🤷‍
+::hrtr::❤️
 ::emgerm::🇩🇪
-::hrtblue::💙
-::hrtgreen::💚
-::hrtyellow::💛
-::hrtpurple::💜
-::hrtshaking::💓
-::hrtcircle::💞
-::hrtarrow::💘
+::hrtb::💙
+::hrtg::💚
+::hrty::💛
+::hrtp::💜
+::hrts::💓
+::hrtc::💞
+::hrta::💘
 ::hrteyes::😍
 ::hrtface::🥰
 ::emhug::🤗
@@ -5448,24 +5626,26 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 !Capslock::!Tab ; map alt+Capslock to alt+Tab  
 ::offadd::
 (
-Plot No 13 Echelon, Institutional Area, Sector 32, Gurugram, Haryana 122002
+Enter you one-liner office address here, Haryana 122002
 )
+::myjio::1234567890
+::myair::1234567890
 ::myaddp::
 (
-JIMMY SAILO
-HOUSE NO 543, 1st FLOOR
-SECTOR 40 ROAD,
-SECTOR 40, GURGAON
-NEAR SECTOR 40 HUDA MARKET
-PIN: 122003
+Enter you
+Multi-liner
+Address here,
+SECTOR xx, City
+NEAR SECTOR xx ABC MARKET
+PIN: 123456
 )
 return
 ::wreg::
 (
 Warm regards,
-Jimmy
+Your Name
 ) 
-::myadd::JIMMY SAILO, HOUSE NO 543, 1st FLOOR, SECTOR 40 ROAD, SECTOR 40, GURGAON, NEAR SECTOR 40 HUDA MARKET, PIN: 122003
+::myadd::YOUR NAME, HOUSE NO, YOUR FLOOR, YOUR ROAD, SECTOR XX, CITY, LANDMARK e.g MARKET, PIN: 123456
 ;------------------------------------------------------------------------------
 ; Fun stuff
 ;------------------------------------------------------------------------------
@@ -5535,9 +5715,11 @@ Return
     Send, ²
 Return
 !+r::
-    Send, ₹ 
+    Send, ₹
 Return
-
+!+o::
+    Send, °
+Return
 
 ;;Put Windows to Sleep;;
 !Pause::
@@ -5548,9 +5730,35 @@ Return
 ::2dd::
 Send, %A_DD%-%A_MMM%-%A_YYYY%
 return
-;;Add date in numerals format of DDMMYYYY ;;
 
+;;Add date in numerals format of DDMMYYYY ;;
 ::3dd::
 Send, %A_MM%%A_DD%%A_YYYY%
 return
 
+;;Add date in numerals format of DDMMYYYY ;;
+::4dd::
+FormatTime, time, A_now, ddd d-MMM-yy hh:mm tt
+send %time%
+return
+
+;;Add date in DD-MON-YYYY format;;
+::5dd::
+Send, %A_DD%-%A_Mon%-%A_YYYY%_%A_hour%-%A_min%
+return
+
+;;DISABLE F1 KEY
+
+#IfWinActive, ahk_class ExploreWClass
+F1::
+
+#IfWinActive, ahk_class Progman
+F1::
+
+#IfWinActive, ahk_class CabinetWClass
+F1::
+
+#IfWinActive, ahk_class Notepad
+F1::
+
+::====::====================================================================================================================================================================
