@@ -29,13 +29,6 @@
 ::lan::LAN
 ::aaa::Platform independent
 ::aa::All systems
-::nhdd::nohiddendepths
-::silvyag::morris.silvya@gmail.com
-::nhdg::nohiddendepths@gmail.com
-::mmmx::jimmy.mmmx@gmail.com
-::jsaig::jimmy.sailo@gmail.com
-::gme::gme_in@yahoo.com
-::pna::PNVAL-126429
 ::paramaters::::parameters
 ::dorp::drop
 ::ditaa::DITA
@@ -72,14 +65,12 @@
 ::doen::done
 ::pdfd::[PDF download]
 ::vidd::[VIDEO] 📽️
-::kacard::4616800003129294
 ::thara::tawrhthiamhara
 ::trawngkam::ṭawngkam
 ::thralai::ṭhalai
 ::ppl::people
 ::detial::detail
 ::detials::details
-::B-)::😎
 ::sth::something
 ::ttpa::ThemthaiaPa
 ::lengpui::Lengpui
@@ -91,7 +82,6 @@
 ::zawngtrah::zawngṭah
 ::antram::anṭam
 ::snmp::SNMP
-::kaupi::jimmy.micromax-1@okaxis
 ::betw'n::between
 ::automatice::automatic
 ::fwd::FWD
@@ -119,7 +109,6 @@
 ::onus::ONUs
 ::olt::OLT
 ::onu::ONU
-::Nat::Nathalie
 ::sme::SME
 ::craete::create
 ::documentaiton::documentation
@@ -176,10 +165,6 @@
 ::inventroy::inventory
 ::Gude::Guide
 ::gude::guide
-::Dmon::Devanshi
-::myemail::jimmy.sailo@gmail.com
-::myemailmo::morris.silvya@gmail.com
-::impsmecom::Implement SME review comments.
 ::peepso::Peepso
 ::frist::first
 ::lauch::launch
@@ -249,9 +234,6 @@
 ::configuraiton::configuration
 ::configr::configure
 ::confign::configuration
-::Pj::Piyush
-::Tj::Tejeshwar
-::Dmo::Devanshi
 ::confign::configuration
 ::tfc::the following command
 ::tffig::the following figure
